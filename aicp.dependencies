@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "android_kernel_nextbit_msm8992",
+    "target_path": "kernel/nextbit/msm8992"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  }
+  {
+    "remote":      "github",
+    "repository":  "TheMuppets/proprietary_vendor_nextbit",
+    "target_path": "vendor/nextbit",
+    "branch":      "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch":      "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "cm-14.1"
+  },
+]
